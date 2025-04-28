@@ -16,4 +16,8 @@ so that I can plan my event or leisure time without hassle.
 
 ### Prerequisites
 
+### Installation 
+
+## Components
+
 ## License

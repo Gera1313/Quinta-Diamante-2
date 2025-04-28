@@ -6,6 +6,7 @@ export default function Hero({ onBook }) {
         <div 
           className="absolute inset-0 bg-cover bg-center"
           style={{
+            // backgroundImage: 'url("/hero_image.JPG")'
             backgroundImage: 'url("https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")'
           }}
         />

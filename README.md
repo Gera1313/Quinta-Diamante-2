@@ -21,3 +21,5 @@ so that I can plan my event or leisure time without hassle.
 ## Components
 
 ## License
+
+## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

@@ -10,6 +10,15 @@ so that I can plan my event or leisure time without hassle.
 
 ## Features
 
+- 📱 Responsive design for all devices
+- 🎨 Modern, sleek UI with glass effects
+- 🏊‍♂️ Dynamic image gallery
+- 💰 Flexible pricing packages
+- 📅 Interactive booking system
+- 📝 Contact form
+- ❓ FAQ section
+- 🌟 Amenities showcase
+
 ## Tech Stack 
 
 ## Getting Started

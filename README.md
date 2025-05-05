@@ -21,6 +21,9 @@ so that I can plan my event or leisure time without hassle.
 
 ## Tech Stack 
 
+React
+Tailwind
+
 ## Getting Started
 
 ### Prerequisites
